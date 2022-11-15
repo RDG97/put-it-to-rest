@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+CSRF_TRUSTED_ORIGINS = ['https://8000-rdg97-putittorest-c1hx6z2zc0n.ws-us75.gitpod.io']
+
 
 # Application definition
 
